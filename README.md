@@ -1,4 +1,3 @@
-### **Unit 04 Web APIs: Code Quiz**
 ## 90210 Code Quiz
 
 Live Link: https://austinkst.github.io/Code-Quiz/
@@ -10,3 +9,6 @@ As you proceed in your career as a web developer, you will probably be asked to 
 - CSS
 - BOOTSTRAP
 - JAVASCRIPT
+
+beverlyhills.png
+beverlyhills2.png
