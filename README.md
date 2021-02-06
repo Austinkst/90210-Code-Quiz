@@ -10,5 +10,6 @@ As you proceed in your career as a web developer, you will probably be asked to 
 - BOOTSTRAP
 - JAVASCRIPT
 
-![beverlyhills](https://user-images.githubusercontent.com/69655334/107102825-ad737d00-67e9-11eb-92f7-2e8cd5d774fb.png)
 ![beverlyhills2](https://user-images.githubusercontent.com/69655334/107102827-ae0c1380-67e9-11eb-9eec-232f8da5091f.png)
+![beverlyhills](https://user-images.githubusercontent.com/69655334/107102825-ad737d00-67e9-11eb-92f7-2e8cd5d774fb.png)
+
